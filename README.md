@@ -37,8 +37,21 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vennela343/Leetcode/tree/master/0001-two-sum) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vennela343/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vennela343/Leetcode/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vennela343/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vennela343/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+## Sliding Window
+|  |
+| ------- |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vennela343/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 <!---LeetCode Topics End-->
