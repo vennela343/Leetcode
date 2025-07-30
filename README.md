@@ -38,6 +38,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vennela343/Leetcode/tree/master/0001-two-sum) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vennela343/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vennela343/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,8 +51,13 @@
 |  |
 | ------- |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vennela343/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vennela343/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Sliding Window
 |  |
 | ------- |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vennela343/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vennela343/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
